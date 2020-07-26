@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Rynaard. I’m a Software Engineer and creator
+of the WaterUP app.
+
+- 👨🏻‍💻 iOS, Cloud, Machine Learning, AI
+- 💙 Swift, SwiftUI, C#, UI/UX Design
+- 📍 Munich, Germany
+- 📫 Availble for hire
+
 <!--
 **rynaardb/rynaardb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
