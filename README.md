@@ -12,7 +12,7 @@ of the WaterUP app.
 - Email: ryno.burger@gmail.com
 - Twitter: [@rynaardb](https://twitter.com/rynaardb)
 - LinkedIn: [linkedin.com/in/rynaardburger/](https://www.linkedin.com/in/rynaardburger/)
-- Blog: [rynaardb.com](https://www.rynaardb.com)
+- Blog: [rynaardb.com](https://rynaardb.com)
 
 <!--
 **rynaardb/rynaardb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
