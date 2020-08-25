@@ -3,9 +3,16 @@
 My name is Rynaard. I’m a Software Engineer and creator
 of the WaterUP app.
 
-- 👨🏻‍💻 iOS, Cloud, Machine Learning, AI
+- 👨🏻‍💻 Mobile, Cloud, Machine Learning, AI
 - 💙 Swift, SwiftUI, Objective-C, C#, UI/UX Design
 - 📍 Munich, Germany
+
+### 👀 Find out more about me
+
+- Email: ryno.burger@gmail.com
+- Twitter: [@rynaardb](https://twitter.com/rynaardb)
+- LinkedIn: [linkedin.com/in/rynaardburger/](https://www.linkedin.com/in/rynaardburger/)
+- Blog: [rynaardb.com](https://www.rynaardb.com)
 
 <!--
 **rynaardb/rynaardb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
