@@ -4,7 +4,7 @@ My name is Rynaard. I’m a Software Engineer and creator
 of the WaterUP app.
 
 - 👨🏻‍💻 iOS, Cloud, Machine Learning, AI
-- 💙 Swift, SwiftUI, C#, UI/UX Design
+- 💙 Swift, SwiftUI, Objective-C, C#, UI/UX Design
 - 📍 Munich, Germany
 
 <!--
