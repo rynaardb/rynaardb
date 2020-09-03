@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynaardb" alt="rynaardb" /> </p>
 
-- 📝 I regulary write articles on [https://rynaardb.com](https://rynaardb.com)
+- 📝 From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
 
 - 📫 How to reach me **ryno.burger@gmail.com**
 
