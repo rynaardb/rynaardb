@@ -8,6 +8,6 @@ I do:
 - 🛠 Architecture
 - ☁️ Cloud Solutions
 
-- 📝 From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
+From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
 
-- 📫 How to reach me **ryno.burger@gmail.com**
+You can reach me at **ryno.burger@gmail.com**
