@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rynaard Burger</h1>
-<h3 align="center">A Mobile Software Engineer based in Munich, Germany 🇩🇪</h3>
+<h3 align="center">Software Engineer based in Munich, Germany 🇩🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynaardb" alt="rynaardb" /> </p>
 
