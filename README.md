@@ -6,7 +6,7 @@ I do:
 - 💻 Software Engineering
 - 📱 Systems Design
 - 🛠 Architecture
-- ☁️ Cloud Solutions
+- ☁️ Cloud Computing
 
 From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
 
