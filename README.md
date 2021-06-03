@@ -7,6 +7,7 @@ I do:
 - 📱 Systems Design
 - 🛠 Architecture
 - ☁️ Cloud Computing
+- ⚙️ DevOps
 
 From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
 
