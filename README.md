@@ -9,6 +9,6 @@ Things I do:
 - ☁️ Cloud Computing
 - ⚙️ DevOps
 
-From time to time I also write articles on [https://rynaardb.com](https://rynaardb.com)
+From time to time I also like to write articles over at [https://rynaardb.com](https://rynaardb.com)
 
 You can reach me at **ryno.burger@gmail.com**
