@@ -10,5 +10,3 @@ Things I do:
 - 🛠 Architecture
 
 From time to time I also like to write articles over at [https://rynaardb.com](https://rynaardb.com)
-
-📧 You can reach me at **ryno.burger@gmail.com**
