@@ -4,6 +4,7 @@ Things I do:
 
 - ⚙️ DevOps
 - ☁️ Cloud Computing
+- 🔒 Cyber Security
 - 📱 Systems Design
 - 💻 Software Engineering
 - 🛠 Architecture
